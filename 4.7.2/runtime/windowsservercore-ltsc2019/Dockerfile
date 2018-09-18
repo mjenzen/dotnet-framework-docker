@@ -1,0 +1,3 @@
+FROM microsoft/windowsservercore:ltsc2019
+
+ENV COMPLUS_NGenProtectedProcess_FeatureEnabled 0
